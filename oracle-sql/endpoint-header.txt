@@ -1,0 +1,4 @@
+|Name|Bind Variable|Access Method|Source Type|Data Type|
+|-|-|-|-|-|
+|Authorization|Authorization|IN|HTTP Header|String|
+|X-APEX-STATUS-CODE|status|OUT|HTTP Header|String|
