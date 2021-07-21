@@ -1,4 +1,5 @@
 # oracle-apex-api
+How to use JWT Token in Oracle APEX.
 
 ### Angular application to test the endpoints
 ```powershell
