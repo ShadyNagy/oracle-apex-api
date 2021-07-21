@@ -1,6 +1,6 @@
 # oracle-apex-api
 
-## Angular application to test the endpoints
+### Angular application to test the endpoints
 ```powershell
 npm install
 ```
