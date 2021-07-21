@@ -1,8 +1,8 @@
 # oracle-apex-api
 
 ### Endpoints
-[POST]`http://localhost:8080/ords/shadynagy/User/Login` 
-[GET]`http://localhost:8080/ords/shadynagy/hr/employees/`
+- [POST]`http://localhost:8080/ords/shadynagy/User/Login` 
+- [GET]`http://localhost:8080/ords/shadynagy/hr/employees/`
 
 ### Employees Endpoint header
 |Name|Bind Variable|Access Method|Source Type|Data Type|
