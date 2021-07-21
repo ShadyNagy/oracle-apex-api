@@ -1,5 +1,10 @@
 # oracle-apex-api
 
+## Angular application to test the endpoints
+```powershell
+npm install
+```
+
 ### Endpoints
 - [POST]`http://localhost:8080/ords/shadynagy/User/Login` 
 - [GET]`http://localhost:8080/ords/shadynagy/hr/employees/`
